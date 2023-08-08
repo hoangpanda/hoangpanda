@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 ![image](https://github.com/hoangpanda/hoangpanda/assets/75479950/7e47818c-8f03-4c33-821b-4d3d2ca88066)
 
 
-- 🔭 I’m currently studing on VNU - UET 
+- 🔭 I’m currently studying on VNU - UET
+- 🌱 I’m currently learning Probability and Statistics
+- ⚡ Fun fact: ...
