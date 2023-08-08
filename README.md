@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on VNU - UET
 - 🌱 I’m currently learning Probability and Statistics
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm interested in machine learning, deep learning especially computer vision
