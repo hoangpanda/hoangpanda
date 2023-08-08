@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Uploading image.png…]()
+![image](https://github.com/hoangpanda/hoangpanda/assets/75479950/7e47818c-8f03-4c33-821b-4d3d2ca88066)
+
 
